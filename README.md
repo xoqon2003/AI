@@ -1,2 +1,2 @@
 # AI
-DataSets for diffrance AI projects
+DataSets for diffrent AI projects
